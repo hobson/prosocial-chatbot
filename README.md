@@ -1,5 +1,13 @@
 # ODSC 2017
 
+## Quick Start
+
+```bash
+pip install nlpia
+cd notebooks
+jupyter notebook "04 Annoying Data.ipynb"
+```
+
 ## Slides 
 
 * [Training a Prosocial Chatbot](https://docs.google.com/presentation/d/1IND6PXOxgYb2IVmXnaSoNBcIOaiUVU-iZ6vnYz6J6-E/edit?usp=sharing)
