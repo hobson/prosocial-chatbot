@@ -8,7 +8,7 @@ Thank you Kevin and the rest of the ODSC staff for releasing videos and making d
 
 ```bash
 $ pip install nlpia
-$ git clone https://github.com/hobson/prosocial-chatbot.git
+$ git clone https://github.com/totalgood/prosocial-chatbot.git
 $ cd prosocial-chatbot/notebooks
 $ jupyter notebook "04 Annoying Data.ipynb"
 ```
@@ -16,7 +16,6 @@ $ jupyter notebook "04 Annoying Data.ipynb"
 ## Slides 
 
 * [Training a Prosocial Chatbot](https://docs.google.com/presentation/d/1IND6PXOxgYb2IVmXnaSoNBcIOaiUVU-iZ6vnYz6J6-E/edit?usp=sharing
-* 
 * [Exploring Hyperspace](https://docs.google.com/presentation/d/1SEU8VL0KWPDKKZnBSaMxUBDDwI8yqIxu9RQtq2bpnNg/edit?usp=sharing)
 
 ## Ubuntu Dialog Corpus
