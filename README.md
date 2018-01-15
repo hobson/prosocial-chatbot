@@ -1,16 +1,21 @@
 # ODSC 2017
 
+Here's the [video of ODSC 2017 tutorial](https://www.youtube.com/watch?v=wI63y3LTOM8).  
+
+Thank you Kevin and the rest of the ODSC staff for releasing videos and making data science **open**!!
+
 ## Quick Start
 
 ```bash
-pip install nlpia
-cd notebooks
-jupyter notebook "04 Annoying Data.ipynb"
+$ pip install nlpia
+$ git clone https://github.com/totalgood/prosocial-chatbot.git
+$ cd prosocial-chatbot/notebooks
+$ jupyter notebook "04 Annoying Data.ipynb"
 ```
 
 ## Slides 
 
-* [Training a Prosocial Chatbot](https://docs.google.com/presentation/d/1IND6PXOxgYb2IVmXnaSoNBcIOaiUVU-iZ6vnYz6J6-E/edit?usp=sharing)
+* [Training a Prosocial Chatbot](https://docs.google.com/presentation/d/1IND6PXOxgYb2IVmXnaSoNBcIOaiUVU-iZ6vnYz6J6-E/edit?usp=sharing
 * [Exploring Hyperspace](https://docs.google.com/presentation/d/1SEU8VL0KWPDKKZnBSaMxUBDDwI8yqIxu9RQtq2bpnNg/edit?usp=sharing)
 
 ## Ubuntu Dialog Corpus
