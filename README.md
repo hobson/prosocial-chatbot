@@ -3,9 +3,10 @@
 ## Quick Start
 
 ```bash
-pip install nlpia
-cd notebooks
-jupyter notebook "04 Annoying Data.ipynb"
+$ pip install nlpia
+$ git clone https://github.com/hobson/prosocial-chatbot.git
+$ cd prosocial-chatbot/notebooks
+$ jupyter notebook "04 Annoying Data.ipynb"
 ```
 
 ## Slides 
